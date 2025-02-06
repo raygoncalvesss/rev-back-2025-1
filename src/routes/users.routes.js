@@ -17,4 +17,3 @@ usersRouter.put("/:id", updateUser);
 usersRouter.delete("/:id", deleteUser);
 
 export default usersRouter;
-
